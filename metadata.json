@@ -1,0 +1,7 @@
+{
+  "name": "THE BLOOD-SOAKED SAMURAI",
+  "description": "A dark, photorealistic Japanese historical cinematic scroll experience chronicling a lone ronin in the aftermath of battle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
